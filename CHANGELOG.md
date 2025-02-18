@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/dongwan-dh/release-please-playground/compare/v1.2.0...v2.0.0) (2025-02-18)
+
+
+### Documentation
+
+* Update README.md ([5c9a980](https://github.com/dongwan-dh/release-please-playground/commit/5c9a980751d03438c811d40df63fa887b6414557))
+
 ## [1.2.0](https://github.com/dongwan-dh/release-please-playground/compare/v1.1.0...v1.2.0) (2025-02-18)
 
 
