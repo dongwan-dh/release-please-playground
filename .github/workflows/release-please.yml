@@ -24,7 +24,7 @@ jobs:
         with:
           java-version: 1.8
       - name: Increase versionCode
-        uses: DoubleSymmetry/android-version-actions@v1.3
+        uses: DoubleSymmetry/android-version-actions@master
         with:
           gradlePath: build.gradle
       - name: Prepare Release PR
